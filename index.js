@@ -17,4 +17,4 @@ const getCountryData = function (country) {
 }
 
 getCountryData('canada');
-//watch  247 chaining promises again
+//comment watch  247 chaining promises again
